@@ -38,9 +38,6 @@ build/Release
 # graphql files on the root dir
 /*.graphql
 
-# es5 output dir
-/dist/
-
 # editor output
 src/editor/main.js
 src/editor/main.js.map
